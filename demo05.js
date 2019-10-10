@@ -11,6 +11,6 @@
 // console.log(add(1,2))
 // 完全支持ES6 
 var add = function (n1, n2) {
-    return n1 + n2;
+    return n1 + n2; //this
 };
 console.log(add(2, 2));
