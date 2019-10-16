@@ -22,7 +22,7 @@ console.log(gril.sex)
 // console.log(gril.age)
 // console.log(gril.name)
 gril.sayHello()
-gril.sayLove()
+// gril.sayLove()
 
 // readonly 只读修饰符
 class Man{
